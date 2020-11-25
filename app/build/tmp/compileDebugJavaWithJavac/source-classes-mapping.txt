@@ -1,0 +1,10 @@
+by/artur/drawing/DrawingView.java
+ by.artur.drawing.DrawingView
+by/artur/drawing/BuildConfig.java
+ by.artur.drawing.BuildConfig
+by/artur/drawing/MainActivity.java
+ by.artur.drawing.MainActivity
+ by.artur.drawing.MainActivity$1
+ by.artur.drawing.MainActivity$2
+ by.artur.drawing.MainActivity$3
+ by.artur.drawing.MainActivity$4
